@@ -3,12 +3,12 @@
 ## About myself
 
 Hi :wave: !
-I am a passionnate coder on [GitHub](https://github.com/Naereen) and [Bitbucket](https://bitbucket.org/lbesson)!
-I used to define myself as a Python fan, nowadays I would most likely just say I like Python, OCaml and Bash as my favorite programming languages!
+I am a French passionnate coder on [GitHub](https://github.com/Naereen) and [Bitbucket](https://bitbucket.org/lbesson)!
+I used to define myself as a :snake: Python fan, nowadays I would most likely just say I like Python, OCaml and Bash as my favorite programming languages!
 
-I am a junior professor in Computer Science and Mathematics at ENS de Rennes in France, and I love teaching!
+Since September 2019, I am a junior professor in Computer Science and Mathematics at ENS de Rennes in France, and I love teaching!
 
-I pursued a Ph.D in telecommunications, applied mathematics, machine learning and computer science, at the engineering school CentraleSupélec in Rennes and at Inria in Lille since 2016 to 2019.
+I pursued a Ph.D in telecommunications, applied mathematics, machine learning and computer science, at the engineering school CentraleSupélec in Rennes and at Inria in Lille since 2016 to 2019, and I graduated in November 2019.
 
 I love byking, hiking, traveling by hitch-hiking, [cooking](https://perso.crans.org/besson/cuisine/) etc.
 
@@ -21,6 +21,3 @@ I love byking, hiking, traveling by hitch-hiking, [cooking](https://perso.crans.
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/naereen.github.io/README.md?pixel)](https://GitHub.com/Naereen/naereen.github.io/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
