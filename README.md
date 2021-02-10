@@ -4,6 +4,9 @@
 I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!)
 I used to define myself as a :snake: Python fan, nowadays I would most likely just say I like :snake: Python, :camel: OCaml and Bash as my favorite programming languages! I also love Julia, and would like to learn and use more Rust, GoLang and TypeScript.
 
+![Profile views](https://gpvc.arturio.dev/Naereen)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 Since September 2019, I am a junior professor in [Computer Science](http://www.dit.ens-rennes.fr/) (and Mathematics) at [ENS de Rennes](http://www.ens-rennes.fr/) in France, and I love teaching!
 <details style="margin-left:3%;">
 <summary>More details on my teaching</summary>
@@ -33,6 +36,12 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/Naereen/Naereen/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
+
+### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 #### [WakaTime stats](https://wakatime.com/@lbesson) ?
 See [this blog post](https://perso.crans.org/besson/wakatime.en.html).
