@@ -25,7 +25,7 @@ I'm passionate about video games, science fiction, and fantasy! :rocket: I write
 :computer: I work on Dell and HP laptops, using [XUbuntu 18.04+](https://xubuntu.org/), [VSCode](https://perso.crans.org/besson/visualstudiocode.en.html), :musical_note: listening to music with [gmusicbrowser](http://gmusicbrowser.org/) (and [this](https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp)).
 Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin), [build my website](https://github.com/Naereen/web-sphinx) using [sphinx](https://sphinx-doc.org/).
 :pencil: I love mathematics, got "agrégation" in 2014, and since then I've helped writing the [best maths book ever](https://laurent.claessens-donadello.eu/frido.html) (in :fr: French), and [this other one](https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique).
-:rolf: I'm a [big fan of memes](https://9gag.com), [various TV shows, movies and video-games](https://perso.crans.org/besson/top10.en.html).
+:rofl: I'm a [big fan of memes](https://9gag.com), [various TV shows, movies and video-games](https://perso.crans.org/besson/top10.en.html).
 
 #### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Naereen.svg)](https://github.com/Naereen/Naereen/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).

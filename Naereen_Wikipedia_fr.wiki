@@ -1,0 +1,41 @@
+Une page de présentation pour l'utilisateur [https://GitHub.com/Naereen|Naereen] ([https://perso.crans.org/besson/|'''Lilian Besson''']). Bonjour 👋 !
+
+{{Boîte Utilisateur|fr|en-2|es-0|habite France|Rennes|origine Hautes-Alpes|TeX|logiciels libres|enseignant|informaticien|Programmeur}}
+
+Je suis actuellement [[enseignant-chercheur]] à l'[École normale supérieure de Rennes|ENS Rennes], en [[informatique]]. J'ai complété en 2019 une [[Doctorat|thèse de ''doctorat'']] en [[mathématiques]] et en informatique, à [[CentraleSupélec#Campus_de_Rennes|CentraleSupélec, campus de Rennes]], et je suis un ancien élève [[normalien]] de l'[[ENS Cachan|ENS de Cachan]] (2011/2016), désormais [[ENS Paris-Saclay]].
+
+J’adore ''enseigner'', et depuis septembre 2019 je suis responsable de la préparation à l'[[agrégation de mathématiques]] [[Agrégation de mathématiques#Option informatique|option informatique]] à l'ENS Rennes.
+J'ai cherché à diversifier au maximum mes activités, et [https://perso.crans.org/besson/enseignements.fr.html|cette page les liste en détails] : TD/TP de [[Java]] en L1 à l'[[Université Rennes 1]], introduction et culture générale informatique en L3 [[École normale supérieure de Rennes#Droit-Économie-Management|Droit Économie Management]], et au [[École normale supérieure de Rennes#Informatique et Télécommunications|département informatique]] : [[algorithmique]] (ALGO1 & ALGO2) en L3 informatique, [[Traitement du signal]] en M1 informatique, et les soutenances de stages de L3/M1/prélab. J'organise aussi nos [http://www.dit.ens-rennes.fr/seminaires/|séminaires de recherche], les [[Stage|stages]] d'initiation à la recherche des L3, et les visites de laboratoire deux fois par ans.
+
+Je souhaite devenir professeur d'informatique en [[classes préparatoires]] (idéalement en [[Classe préparatoire MPII|MPII/MPI]]).
+Durant ma thèse, je donnais des TDs en informatique théorique à l’[[ENSAI]] ([[Calculabilité]], [[Théorie de la complexité (informatique théorique)|Complexité]], [[Machine de Turing]] 2016/18), et déjà des entraînements et oraux blancs pour l'agrég' maths option info (64h/an).
+J’ai aussi déjà enseigné en [[classes préparatoires]] et en [[école d'ingénieur]], en mathématiques et informatique :
+* Entre 2017 et 2019, je donnais des TP d'informatique ''pour tous'' en [[Classe préparatoire physique et sciences de l'ingénieur|PSI]] au [[Lycée Joliot-Curie]] et des TP d'option informatique en [[Classe préparatoire MPSI|MPSI]] au [[Lycée Chateaubriand]] à [[Rennes]] ;
+* En 2015/2016, des colles de maths et TPs d’info en prépa MP au [[Lycée Lakanal]] ;
+* Et durant toute l’année 2014/2015, j'ai participé à la création de l'école d'ingénieur [[Mahindra École Centrale]] à [[Hyderabad]] en [[Inde]] ([https://perso.crans.org/besson/cs101/|CS101], [https://perso.crans.org/besson/ma101/|MA101] et [https://perso.crans.org/besson/MA102/|MA102]).
+
+Je suis aussi passionné de ''programmation'', sur mon temps libre (un peu en [[OCaml]], beaucoup en [[Python_(langage)|Python]] et [[Bourne-Again_shell|Bash]] pour [[Ubuntu (système d'exploitation)|Ubuntu]], et un peu de [[HTML]]/[[Feuilles_de_style_en_cascade|CSS]]/[[Javascript|js]] pour le web).
+J'ai [https://libraries.io/github/Naereen/|contribué (un peu)] à des bibliothèques Python comme [[SciPy]], [[NumPy]], [[Matplotlib]], [[Jupyter]], et aussi au langage et à la librairie standard de [[OCaml]], et aussi un peu à des projets comme [https://github.com/tableaunoir/tableaunoir|tableaunoir].
+
+Vous pouvez me contacter par courriel à naereen[AT]crans[.]org (remplacer [AT] par @ et [.] par .).
+
+-----
+
+Je m'intéresse principalement aux sujets suivants sur Wikipédia, en français et en anglais :
+* informatique "pratique" : logiciels, outils GNU/Linux, technologies du web ;
+* cinéma et musique (notamment de films et de jeux vidéos) ;
+* mathématiques (fondamentales et appliquées, notamment analyse numérique) ;
+* informatique théorique (algorithmique, graphes, logiques) ;
+* séries télévisées américaines, françaises et britanniques (SF, sitcoms), animés japonais, etc.
+
+-----
+
+Vous pouvez aussi me trouver sur d'autres pages web :
+* https://perso.crans.org/besson : pages principales;
+* dépôts [[git]] : https://Bitbucket.org/lbesson sur [[Bitbucket]], ou https://GitHub.com/Naereen sur [[GitHub]], ou https://gitlab.com/Naereen sur [[GitLab]];
+* https://cv.besson.link : CV en PDF.
+
+{{Utilisateur école|ENS Cachan|lien=ENS Paris-Saclay|promotion=2016|duree etudes=5}}
+{{Utilisateur Wikipédia}}
+{{Utilisateur Wikipédia:Date4|année=2013|mois=3|jour=1}}
+{{Utilisateur Docteur|sciences}}

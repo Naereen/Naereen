@@ -1,0 +1,40 @@
+A presentation page for the user [https://GitHub.com/Naereen|Naereen] ([https://perso.crans.org/besson/|'''Lilian Besson '' ']).Hello 👋!
+
+{{Boîte Utilisateur|fr|en-2|es-0|habite France|Rennes|origine Hautes-Alpes|TeX|logiciels libres|enseignant|informaticien|Programmeur}}
+
+I am currently [[teacher-researcher]] at the [École normale supérieure de Rennes | ENS Rennes], in [[IT]]. In 2019, I completed a [[Doctorate | '' doctoral '']] in [[mathematics]] and computer science, at [[CentraleSupélec # Campus_de_Rennes | CentraleSupélec, Rennes campus]], and I am a former student [[normalien]] of [[ENS Cachan | ENS de Cachan]] (2011/2016), now [[ENS Paris-Saclay]].
+
+I love '' teaching '', and since September 2019 I have been responsible for preparing for the [[mathematics aggregation]] [[Mathematics aggregation # Computer option | IT option]] at ENS Rennes.
+I tried to diversify my activities as much as possible, and [https://perso.crans.org/besson/enseignement.fr.html| this page lists them in detail]: TD / TP of [[Java]] in L1 at [[Université Rennes 1]], introduction and general computer literacy in L3 [[École normale supérieure de Rennes # Droit-Économie-Management | Droit Économie Management]], and at [[École normale supérieure de Rennes # Informatique et Telecommunications | IT department]]: [[algorithmic]] (ALGO1 & ALGO2) in L3 informatics, [[Signal processing]] in M1 informatics, and the defenses of internships of L3 / M1 / ​​prelab. I also organize our [http://www.dit.ens-rennes.fr/seminaires/| research seminars], the [[Internship | internships]] initiation to L3 research, and laboratory visits twice a year.
+
+I wish to become a computer professor in [[preparatory classes]] (ideally in [[MPII Preparatory Class | MPII / MPI]]).
+During my thesis, I gave TDS in theoretical computing with [[ENSAI]] ([[Calculability]], [[Theory of complexity (theoretical computing) | complexity]], [[Turing machine]] 2016 / 18), and already blank training and oral for the aggregate "Maths Option Info (64h / year).
+I have also taught in [[Preparatory classes]] and [[Engineering School]], Mathematics and IT:
+* Between 2017 and 2019, I gave computer TP '' for all '' in [[physical preparatory class and engineering sciences | psi]]] [[Joliot-Curie High School]] and Option TP computer in [[MPSI preparatory class | MPSI]]] to [[Chateaubriand High School]] at [[Rennes]];
+* In 2015/2016, math glues and TPS info in MP Preparation at [[Lakanal High School]];
+* And throughout the year 2014/2015, I participated in the creation of the engineering school [[Mahindra central school]] to [[Hyderabad]] in [[India]] ([https: // perso.crans.org/BESSON/CS101/ |CS101], [https://perso.crans.org/BESSON/MA101/ |MA101] and [https://perso.crans.org/besson/ma102/ |MA102 ]).
+
+I am also passionate about '' programming '', on my free time (a little [[ocaml]], a lot in [[Python_ (Language) | Python]] and [[Bourne-Again_Shell | Bash]]] [ Ubuntu (operating system) | Ubuntu]], and a little [[HTML]] / [[Leaves_style_en_cascade | CSS]] / [[JavaScript | JS]]] for the Web).
+I [https://libraries.io/github/naereen/contribute (a little)] to Python libraries like [[Scipy]], [[NUMPY]], [[Matplotlib]], [[Jupyter]] ], and also to the language and the standard library of [[ocaml]], and also a little bit to projects like [https://github.com/tabeleaunir/tabeauniroTabeauNoir].
+
+You can contact me by email at Naereen [AT] Crans [.] Org (replace [AT] by @ and [.] By.).
+
+-----
+
+I am mainly interested in the following topics on Wikipedia, in French and English:
+* "practical" computing: software, GNU / Linux tools, web technologies;
+* cinema and music (especially films and video games);
+* mathematics (fundamental and applied, in particular numerical analysis);
+* theoretical computer science (algorithms, graphs, logic);
+* American, French and British television series (SF, sitcoms), Japanese anime, etc.
+
+-----
+
+You can also find me on other web pages:
+* https://perso.crans.org/besson: main pages;
+* [[git]] repositories: https://Bitbucket.org/lbesson on [[Bitbucket]], or https://GitHub.com/Naereen on [[GitHub]], or https://gitlab.com/Naereen on [[GitLab]];
+* https://cv.besson.link: CV in PDF.
+
+{{User Wikipedia}}
+{{User Wikipedia:Date4|year=2013|month=3|day=1}}
+{{User Doctor|sciences}}
