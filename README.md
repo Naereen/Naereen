@@ -42,12 +42,7 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![lbesson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lbesson&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### [WakaTime stats](https://wakatime.com/@lbesson) ?
 See [this blog post](https://perso.crans.org/besson/wakatime.en.html).
-<details>
-<summary>Show two graphics</summary>
-<img src="https://wakatime.com/share/@lbesson/913f53e5-5778-45ed-a342-c1cac1941234.png" title="Languages over Last 30 days (powered by https://wakatime.com/@lbesson)" alt="Image showing languages over Last 30 days (powered by https://wakatime.com/@lbesson)">
-<img src="https://wakatime.com/share/@lbesson/34237b90-1e52-498b-bf65-7278e030cff4.png" title="Coding activity over Last 30 days (powered by https://wakatime.com/@lbesson)" alt="Image showing coding activity over Last 30 days (powered by https://wakatime.com/@lbesson)">
-<details>
+[![lbesson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lbesson&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
