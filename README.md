@@ -40,7 +40,8 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 
 ### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### [WakaTime stats](https://wakatime.com/@lbesson) ?
