@@ -1,7 +1,7 @@
 ## [Lilian Besson](https://perso.crans.org/besson/) [(@Naereen) on GitHub](https://naereen.github.io/)
 
-[Hello there](https://www.youtube.com/watch?v=5yX-n57NRfc&hour=10) :wave: !
-I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen&day=lundi) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!)
+[Hello there](https://www.youtube.com/watch?v=5yX-n57NRfc&hour=21) :wave: !
+I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen&day=mardi) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!)
 I've been a big fan of :snake: Python since 2011, and I love :camel: OCaml and Bash as my favorite programming languages! Daily Bash user since 2011 too! I also love Julia, and would like to learn and use more of Rust, GoLang and TypeScript.
 
 ![Profile views](https://gpvc.arturio.dev/Naereen#film=papillon)
@@ -36,8 +36,8 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama&leaving=house)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/Naereen/Naereen/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/&going=house)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg?min=13)](https://GitHub.com/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?hack=yes)](https://github.com/Naereen/badges)
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 
 ### Stats
