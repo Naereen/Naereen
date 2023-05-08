@@ -30,7 +30,7 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 
 #### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Naereen.svg?going-to=PhD-Md)](https://github.com/Naereen/Naereen/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2015-22.
+© [Lilian Besson](https://GitHub.com/Naereen), 2015-23.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Naereen/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama&leaving=house)
