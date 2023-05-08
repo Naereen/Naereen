@@ -17,10 +17,10 @@ I continued doing some research after my PhD defense, but I had to stop complete
 
 #### I'm not only a (proud) geek!
 Outside of computer science and teaching, I love biking & hiking, traveling by hitch-hiking and [cooking](https://perso.crans.org/besson/cuisine/) (I'm pro vegetarian!), fighting against the climate crisis and polluters, on a daily basis, on both personal associative and political levels, etc.
-:bed: I live in Le Cannet, and I'm a strong believer in the importance of :green_heart: ecology, and especially [reducing waste at a personal level](https://perso.crans.org/besson/zero-dechet/) and [local](https://anv-cop21.org/) and [national political actions](https://www.eelv.fr/).
+:bed: I live in Briançon, and I'm a strong believer in the importance of :green_heart: ecology, and especially [reducing waste at a personal level](https://perso.crans.org/besson/zero-dechet/) and [local](https://anv-cop21.org/) and [national political actions](https://www.eelv.fr/).
 *Bien sûr*, I like video games, science fiction and fantasy! :rocket: I used to write a lot on [my blog](https://perso.crans.org/besson/index.en.html).
 
-I'm a big fan of *Magic: the Gathering*, and long-time green/white Timmy player! Pauper, Modern, EDH and limited are my favorite formats! I play weekly at [this awesome place](https://www.aucoindujeu05.fr/)! (some of my deck lists are [here](https://github.com/Naereen/My-Magic-the-Gathering-decks))
+I'm a big fan of *Magic: the Gathering*, and long-time green/white Timmy player! Pauper, Modern, EDH and limited are my favorite formats! I play weekly at [this awesome place](https://www.aucoindujeu05.fr/)! (some of my deck lists are [here](https://github.com/Naereen/My-Magic-the-Gathering-decks) or [here on Moxfield](https://www.moxfield.com/users/Naereen)).
 
 #### More name dropping
 :computer: I work on Dell and HP laptops, using [XUbuntu 18.04+](https://xubuntu.org/), [VSCode](https://perso.crans.org/besson/visualstudiocode.en.html), :musical_note: listening to music with [gmusicbrowser](http://gmusicbrowser.org/) (and [this](https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp)).
