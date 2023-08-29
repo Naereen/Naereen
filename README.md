@@ -7,7 +7,7 @@ I've been a big fan of :snake: Python since 2011, and I love :camel: OCaml and B
 ![Profile views](https://gpvc.arturio.dev/Naereen#film=papillon)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/Naereen?tab=followers)
 
-I am now a full-time professor of Computer Science in [Classes Préparatoires](https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques) (in [MP2I](https://prepas.org/index.php?article=42)) from September 2021, last year in [Lycée Kléber](https://lycee-kleber.com.fr/) in [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg) and now in [Centre International de Valbonne](http://civ.classeprepa.net/pr%C3%A9pas-scientifiques/mp2i/) in [Valbonne](https://en.wikipedia.org/wiki/Valbonne) near Cannes and Nice :sunny:.
+I am now a full-time professor of Computer Science in [Classes Préparatoires](https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques) (in [MP2I](https://prepas.org/index.php?article=42)) from September 2021, in [Lycée Kléber](https://lycee-kleber.com.fr/) in [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg).
 
 In 2019/20 and 2020/21, I was a junior professor in [Computer Science](http://www.dit.ens-rennes.fr/?maxAge=2592000) (and Mathematics) at [ENS de Rennes](http://www.ens-rennes.fr/) in France.
 
