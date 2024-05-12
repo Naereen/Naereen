@@ -4,7 +4,7 @@
 I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen&day=mardi) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!), and I love teaching!
 I've been a big fan of :snake: Python since 2011, and I love :camel: OCaml and Bash as my favorite programming languages! Daily Bash user since 2011 too!
 
-![Profile views](https://gpvc.arturio.dev/Naereen#film=papillon)
+![Profile views (reset 12/05/2024)](https://komarev.com/ghpvc/?username=Naereen&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/Naereen?tab=followers)
 
 I am now a full-time professor of Computer Science in [Classes Préparatoires](https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques) (in [MP2I](https://prepas.org/index.php?article=42)) from September 2021, in [Lycée Kléber](https://lycee-kleber.com.fr/) in [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg).
