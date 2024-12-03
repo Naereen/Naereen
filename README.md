@@ -44,7 +44,6 @@ Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin),
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg?min=13)](https://GitHub.com/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?hack=yes)](https://github.com/Naereen/badges)
-[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 
 ### Stats
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
