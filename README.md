@@ -1,16 +1,18 @@
 ## [Lilian Besson](https://perso.crans.org/besson/) [(@Naereen) on GitHub](https://naereen.github.io/)
 
-[Hello there](https://www.youtube.com/watch?v=5yX-n57NRfc&hour=21) :wave: !
-I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen&day=mardi) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!), and I love teaching!
-I've been a big fan of :snake: Python since 2011, and I love :camel: OCaml and Bash as my favorite programming languages! Daily Bash user since 2011 too!
+[Hello there](https://www.youtube.com/watch?v=5yX-n57NRfc) :wave: !
+I am a :fr: French passionate coder on [GitHub](https://github.com/Naereen) (also [Bitbucket](https://bitbucket.org/lbesson) & [GitLab](https://gitlab.com/Naereen)!), and I love programming as well as teaching!
+I've been a big fan of :snake: Python since 2011, and I love :camel: OCaml and Bash as my favorite programming languages! I'm a proud Bash user since 2011 too, on a daily basis!
+
+I started programming on my Texas Instruments graphical calculator, back in 2008, and since then I've kept an interest for this field: see [these .nwa apps for Numworks](https://github.com/Naereen/Numworks-apps) and this project: [OMicroB for Numworks](https://github.com/stevenvar/OMicroB/) ([this thread too](https://github.com/stevenvar/OMicroB/issues/36)).
 
 ![Profile views (reset 12/05/2024)](https://komarev.com/ghpvc/?username=Naereen&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/Naereen?tab=followers)
 
-I am now a full-time professor of Computer Science in [Classes Préparatoires](https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques) (in [MP2I](https://prepas.org/index.php?article=42)) from September 2021, in [Lycée Kléber](https://lycee-kleber.com.fr/) in [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg).
-I teach computer science at baccalauréat +1 level, for one class of 48 students aged between 17 and 19 year-olds, and I LOVE THIS JOB.
+Since 2021, I am now a full-time professor of Computer Science in [Classes Préparatoires](https://fr.wikipedia.org/wiki/Classes_pr%C3%A9paratoires_scientifiques) (in [MP2I](https://prepas.org/index.php?article=42)), in [Lycée Kléber](https://lycee-kleber.com.fr/) in [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg) (France).
+I teach computer science at "baccalauréat" +1 level, for one class of 48 students aged between 17 and 19, and I LOVE THIS JOB!
 
-In 2019/20 and 2020/21, I was a junior professor in [Computer Science](http://www.dit.ens-rennes.fr/?maxAge=2592000) (and Mathematics) at [ENS de Rennes](http://www.ens-rennes.fr/) in France.
+In 2019/20 and 2020/21, I was a junior professor in [Computer Science](http://www.dit.ens-rennes.fr/?maxAge=2592000) (and Mathematics) at [ENS de Rennes](http://www.ens-rennes.fr/) in France. Before that, I studied for like 10 years 😂.
 
 #### I enjoyed doing a PhD (2016-19)
 Before that, [I pursued a Ph.D](https://perso.crans.org/besson/phd/) ([phd.pdf](https://perso.crans.org/besson/phd.pdf)) in telecommunications, applied mathematics, machine learning and computer science (yes, all that), at the engineering school CentraleSupélec in Rennes and at Inria in Lille since 2016 to 2019, and I graduated in November 2019. I [wrote research articles](https://perso.crans.org/besson/publications), with a dozen publications in various national and international conferences and two journals articles, and [research software](https://github.com/SMPyBandits/).
@@ -18,26 +20,26 @@ I continued doing some research after my PhD defense, but I had to stop complete
 
 #### I'm not only a (proud) geek!
 Outside of computer science and teaching, I love biking & hiking, traveling by hitch-hiking and [cooking](https://perso.crans.org/besson/cuisine/) (I'm pro vegetarian!), fighting against the climate crisis and polluters, on a daily basis, on both personal associative and political levels, etc.
-🏠 I regularly travel the beautiful city of Briançon (during holidays), otherwise I now live full-time in Strasbourg.
-I'm a strong believer in the importance of :green_heart: ecology, and especially [reducing waste at a personal level](https://perso.crans.org/besson/zero-dechet/) and [local](https://anv-cop21.org/) and [national political actions](https://www.eelv.fr/).
+🏠 I regularly travel to the beautiful city of Briançon (during holidays), otherwise I now live full-time in Strasbourg.
+I'm a strong believer in the importance of :green_heart: ecology, especially [reducing waste at a personal level](https://perso.crans.org/besson/zero-dechet/), and [local](https://anv-cop21.org/) and [national political actions](https://www.eelv.fr/).
 *Bien sûr*, I like video games, science fiction and fantasy! :rocket: I used to write a lot on [my blog](https://perso.crans.org/besson/index.en.html).
 
 #### My Magic: the Gathering passion 🃏
-I'm a big fan of **Magic: the Gathering**, and long-time green/white Timmy player!
-I'm now an official Magic judge (Level L1). Pauper, Modern or EDH, and sealed and cube (limited) are my favorite formats!
+I'm a big fan of **Magic: the Gathering**, and [long-time green/white "Timmy" player](https://scryfall.com/card/und/73/timmy-power-gamer)!
+I'm now an official Magic judge (Level L1), since 2023. Pauper, Modern or EDH, sealed and cube (limited) are my favorite formats!
 I play regularly at [this awesome place](https://www.aucoindujeu05.fr/) in Briançon where we organize drafts, and in Strasbourg, I play weekly at [Vent Divin](https://ventdivin.com/), [Dooz TCG](https://www.cardmarket.com/fr/Magic/Users/Dooz-TCG) and [Baraka Jeux](https://barakajeuxstrasbourg.fr/) and other great locations!
-I am the secretary and an active member of two local associations for **Magic: the Gathering**, in Strasbourg: 1) [Les Arpenteurs de Strasbourg](https://arpenteursdestrasbourg.netlib.re/), since 2023, 2) and also a founding member of [Cartes Flambées](https://www.helloasso.com/associations/cartes-flambees) in 2025.
-Some of my deck lists were [hosted here on GitHub](https://github.com/Naereen/My-Magic-the-Gathering-decks), but most of them are [here on Moxfield](https://www.moxfield.com/users/Naereen).
+I am the secretary and an active member of two local associations for **Magic: the Gathering**, in Strasbourg: 1. [Les Arpenteurs de Strasbourg](https://arpenteursdestrasbourg.netlib.re/), since 2023, 2. and also I'm a founding member of [Cartes Flambées](https://www.helloasso.com/associations/cartes-flambees) in 2025.
+Some of my deck lists were [hosted here on GitHub](https://github.com/Naereen/My-Magic-the-Gathering-decks), and they are also [here on Moxfield (@Naereen)](https://www.moxfield.com/users/Naereen).
 
 #### More name dropping
-💻 I work on Dell and HP laptops, using [XUbuntu 22.04+](https://xubuntu.org/), coding on [VSCode](https://perso.crans.org/besson/visualstudiocode.en.html), 🎵 listening to music with [gmusicbrowser](http://gmusicbrowser.org/) (and [this](https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp)).
-Since 2012, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin), and [build my website](https://github.com/Naereen/web-sphinx) using [sphinx](https://sphinx-doc.org/).
-📝 I love mathematics, I teach a bit of maths on a weekly basis. I studied a lot of maths in my twenties, and I got the French national competitive exam for teaching ("agrégation") in 2014. Since then I've helped writing [a very good maths book for Agrégation and license/master level maths](https://laurent.claessens-donadello.eu/frido.html) (in 🇫🇷 French), and [this other one](https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique).
-🤣 I'm a [big fan of memes](https://9gag.com), [various TV shows, movies and video-games](https://perso.crans.org/besson/top10.en.html).
+💻 I work on Dell and HP laptops, using [XUbuntu 22.04+](https://xubuntu.org/), coding on [VSCode](https://perso.crans.org/besson/visualstudiocode.en.html), 🎵 listening to music with [gmusicbrowser](http://gmusicbrowser.org/) (and [using this homemade software](https://github.com/Naereen/GMusicBrowser-FullScreen-WebApp)).
+Since 2011, I write a lot of [tiny CLI scripts](https://github.com/Naereen/bin), and I [build my website](https://github.com/Naereen/web-sphinx) using [sphinx](https://sphinx-doc.org/).
+📝 I love all of mathematics, I teach a bit of maths on a weekly basis. I studied a lot of maths in my twenties, and I got the French national competitive exam for teaching ("agrégation") in 2014, with a major in maths and asecind major in theoretical Computer Science. Since then I've helped writing [a very good maths book for Agrégation and license/master level maths](https://laurent.claessens-donadello.eu/frido.html) (in 🇫🇷 French), and [this other one too](https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique).
+🤣 I'm a [big fan of memes](https://9gag.com), and [various TV shows, movies and video-games](https://perso.crans.org/besson/top10.en.html).
 
 #### 📜 License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Naereen.svg?going-to=PhD-Md)](https://github.com/Naereen/Naereen/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2015-25.
+© [Lilian Besson (Naereen)](https://GitHub.com/Naereen), 2015-25.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Naereen/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama&leaving=house)
